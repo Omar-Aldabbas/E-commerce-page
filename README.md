@@ -12,4 +12,4 @@ This is a simple and responsive eCommerce page designed to showcase products. Th
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-page.git
+   git clone https://github.com/omar-aldabbas/ecommerce-page.git
